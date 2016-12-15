@@ -1,0 +1,38 @@
+body{
+	text-align: center;
+	font-size: 20px;
+	
+
+}
+.backg{
+	background-image: url(../img/pigd.gif);
+	width:1390px;
+	height:400px;
+}
+.header{
+	font-weight: bolder;
+	font-style: initial;
+	font-size: 2000px;
+	padding-top: 100px;
+	color:blue;
+}
+.win{
+	background-color: gray;
+	height:400px;
+	width:460px;
+	padding-top: 200px;
+
+
+}
+.player1{
+	background-color: white;
+	height:400px;
+	width:460px;
+	padding-top: 50px;
+}
+.player2{
+	background-color: gray;
+	height:400px;
+	padding-top: 50px;
+	width:460px;
+}
